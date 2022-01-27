@@ -1,0 +1,8 @@
+Normal.py:初期のグラフ構造におけるNormalデータのノード分類
+deleted.py:初期のグラフ構造におけるDeletedデータのノード分類
+
+STN：ST-GCN導入後のNormalデータによるノード分類
+STD1:ST-GCN導入後のDeleted5～２０によるノード分類
+STD2:ST-GCN導入後のDeleted１０～２０によるノード分類
+STD3:ST-GCN導入後のDeleted5～100によるノード分類
+STD4:ST-GCN導入後のDeleted10～100によるノード分類
